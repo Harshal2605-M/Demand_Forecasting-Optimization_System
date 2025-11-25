@@ -1,4 +1,4 @@
-#Demand_Forecasting-Optimization_System
+# Azure-Demand-Forecasting-Capacity-Optimization-System-Harshal-Mahajan
 
 📊 Azure Demand Forecasting & Optimization
   End-to-End Cloud Architecture • Medallion Pipeline • Machine Learning • Power BI
@@ -189,5 +189,6 @@ Demo Video : https://drive.google.com/file/d/1u-Z3md5OW_4nuS0TExVk8N3y1axUG0Xs/v
   iv)MAPE-based best model selection
 
   v)Production-ready dashboards for business decision-making
+
 
 
